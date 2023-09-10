@@ -11,7 +11,8 @@ Basic HTML and mostly the CSS with good understanding of positioning and colorin
 
 Here is the end product:
 
-![Alt text](image.png)
+<img src="image.png"  width="150" height="300">
+
 
 >[:NOTE] <br>
 > Link to the website:  [click here](https://cute-narwhal-0eeb2c.netlify.app/)
