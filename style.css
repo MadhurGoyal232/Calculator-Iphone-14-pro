@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background-color: rgb(28, 28, 28);
 }
 h1 {
   color: white;
@@ -12,26 +12,27 @@ button {
   border-radius: 50%;
   border-style: none;
   margin: 4px;
-  font-size:29px;
-  color:white;
+  font-size: 29px;
+  color: white;
+  cursor:pointer;
 }
 
 #texta {
   margin-top: 16.5%;
   margin-left: 80%;
   font-size: 35px;
-  position:relative;
-  top:35px;
+  position: relative;
+  top: 35px;
 }
 .typea {
-  background-color: grey;
+  background-color: rgb(212, 212, 210);
 }
 .typeb {
-  background-color: orange;
+  background-color: rgb(255, 149, 0);
 }
 
 .typec {
-  background-color: darkgreen;
+  background-color:  rgb(80, 80, 80);
 }
 
 .typed {
@@ -39,24 +40,23 @@ button {
   width: 139px;
   text-align: center;
   border-radius: 40px 40px 40px 40px;
-  background-color: darkgreen;
+  background-color: rgb(80, 80, 80);
   position: relative;
   top: 3px;
   display: inline-flex;
   align-items: center;
-  padding-left:41px;
-  font-size:29px;
-  color:white;
+  padding-left: 41px;
+  font-size: 29px;
+  color: white;
+  cursor:pointer;
 }
 
-
-.line{
-
-    background-color:white;
-    height:5px;
-    width:147px;
-    border-radius:5px;
-    position:relative;
-    left:106px;
-    top:24px;
+.line {
+  background-color: white;
+  height: 5px;
+  width: 147px;
+  border-radius: 5px;
+  position: relative;
+  left: 106px;
+  top: 24px;
 }
