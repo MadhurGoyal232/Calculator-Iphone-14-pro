@@ -7,18 +7,21 @@ h1 {
 }
 
 button {
-  height: 50px;
-  width: 50px;
+  height: 80px;
+  width: 80px;
   border-radius: 50%;
   border-style: none;
   margin: 4px;
-  font-size:23px;
+  font-size:29px;
   color:white;
 }
 
 #texta {
-  margin-top: 70%;
+  margin-top: 65%;
   margin-left: 80%;
+  font-size: 35px;
+  position:relative;
+  top:35px;
 }
 .typea {
   background-color: grey;
@@ -32,17 +35,17 @@ button {
 }
 
 .typed {
-  height: 50px;
-  width: 94px;
+  height: 80px;
+  width: 139px;
   text-align: center;
-  border-radius: 20px 20px 20px 20px;
+  border-radius: 40px 40px 40px 40px;
   background-color: darkgreen;
   position: relative;
   top: 3px;
   display: inline-flex;
   align-items: center;
-  padding-left:25px;
-  font-size:23px;
+  padding-left:41px;
+  font-size:29px;
   color:white;
 }
 
@@ -51,9 +54,9 @@ button {
 
     background-color:white;
     height:5px;
-    width:91px;
+    width:147px;
     border-radius:5px;
     position:relative;
-    left:76px;
+    left:106px;
     top:24px;
 }
