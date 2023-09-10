@@ -1,0 +1,59 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: white;
+  font-family: Xenara;
+}
+
+button {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  border-style: none;
+  margin: 4px;
+  font-size:23px;
+  color:white;
+}
+
+#texta {
+  margin-top: 70%;
+  margin-left: 80%;
+}
+.typea {
+  background-color: grey;
+}
+.typeb {
+  background-color: orange;
+}
+
+.typec {
+  background-color: darkgreen;
+}
+
+.typed {
+  height: 50px;
+  width: 94px;
+  text-align: center;
+  border-radius: 20px 20px 20px 20px;
+  background-color: darkgreen;
+  position: relative;
+  top: 3px;
+  display: inline-flex;
+  align-items: center;
+  padding-left:25px;
+  font-size:23px;
+  color:white;
+}
+
+
+.line{
+
+    background-color:white;
+    height:5px;
+    width:91px;
+    border-radius:5px;
+    position:relative;
+    left:76px;
+    top:24px;
+}
