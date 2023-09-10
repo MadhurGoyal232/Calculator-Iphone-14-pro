@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(28, 28, 28);
+  background-color: black;
 }
 h1 {
   color: white;
@@ -26,6 +26,7 @@ button {
 }
 .typea {
   background-color: rgb(212, 212, 210);
+  color:black;
 }
 .typeb {
   background-color: rgb(255, 149, 0);
