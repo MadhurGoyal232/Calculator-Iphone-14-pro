@@ -4,6 +4,8 @@ body {
 h1 {
   color: white;
   font-family: Xenara;
+  /* direction : rtl; */
+
 }
 
 button {
@@ -21,8 +23,9 @@ button {
   margin-top: 16.5%;
   margin-left: 80%;
   font-size: 35px;
-  position: relative;
   top: 35px;
+  display:flex;
+  justify-content: flex-end;
 }
 .typea {
   background-color: rgb(212, 212, 210);
